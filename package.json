@@ -7,6 +7,7 @@
 		"doc": "docs"
 	},
 	"scripts": {
+		"serve": "gitbook serve ./content ./docs",
 		"build": "gitbook build ./content ./docs"
 	},
 	"repository": {
